@@ -12,4 +12,6 @@ set.splitbelow=true
 set.splitright = true
 set.cursorline = true
 set.tabstop =4
+set.shiftwidth=2
 set.smarttab =false
+set.modifiable = true
