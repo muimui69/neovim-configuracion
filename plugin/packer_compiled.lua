@@ -74,6 +74,11 @@ _G.packer_plugins = {
     path = "/home/moiso/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["Navigator.nvim"] = {
+    loaded = true,
+    path = "/home/moiso/.local/share/nvim/site/pack/packer/start/Navigator.nvim",
+    url = "https://github.com/numToStr/Navigator.nvim"
+  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/moiso/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
@@ -83,11 +88,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/moiso/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
-  },
-  ["dashboard-nvim"] = {
-    loaded = true,
-    path = "/home/moiso/.local/share/nvim/site/pack/packer/start/dashboard-nvim",
-    url = "https://github.com/glepnir/dashboard-nvim"
   },
   ["indent-blankline.nvim"] = {
     loaded = true,

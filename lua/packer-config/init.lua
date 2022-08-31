@@ -9,7 +9,8 @@ return require'packer'.startup(function ()
 	use 'windwp/nvim-autopairs'					--autocompleta -> input (  output ()  
 	use 'lukas-reineke/indent-blankline.nvim'	--las lineas guia de abre y cirre de una funcion
 	use 'norcalli/nvim-colorizer.lua'			-- notacion hexadecimal muestra el color que es.
-	use 'glepnir/dashboard-nvim'
+	--use 'glepnir/dashboard-nvim'				-- splash screen de inicio
+	use 'numToStr/Navigator.nvim'				--navegar entre paneles
 	
 	--copie pegue xdxd
 	use 'hrsh7th/nvim-cmp' -- Autocompletion plugin
